@@ -12,5 +12,6 @@
         $i=$x*$y;
         echo "<br/>"
         echo "5*3="+$i;
+    ?>
 </body>
 </HTML>
